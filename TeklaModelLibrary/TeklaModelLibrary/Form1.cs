@@ -15,7 +15,7 @@ namespace TeklaModelLibrary
         public Form1()
         {
             InitializeComponent();
-            button1.Text = "OK";
+            button1.Text = "Cancel";
         }
 
         private void button1_Click(object sender, EventArgs e)
