@@ -1,0 +1,10 @@
+C:\Users\wogns\Desktop\GitHub\TeklaModelLibrary\TeklaModelLibrary\bin\Debug\TeklaModelLibrary.exe.config
+C:\Users\wogns\Desktop\GitHub\TeklaModelLibrary\TeklaModelLibrary\bin\Debug\TeklaModelLibrary.exe
+C:\Users\wogns\Desktop\GitHub\TeklaModelLibrary\TeklaModelLibrary\bin\Debug\TeklaModelLibrary.pdb
+C:\Users\wogns\Desktop\GitHub\TeklaModelLibrary\TeklaModelLibrary\obj\Debug\TeklaModelLibrary.csprojAssemblyReference.cache
+C:\Users\wogns\Desktop\GitHub\TeklaModelLibrary\TeklaModelLibrary\obj\Debug\TeklaModelLibrary.Form1.resources
+C:\Users\wogns\Desktop\GitHub\TeklaModelLibrary\TeklaModelLibrary\obj\Debug\TeklaModelLibrary.Properties.Resources.resources
+C:\Users\wogns\Desktop\GitHub\TeklaModelLibrary\TeklaModelLibrary\obj\Debug\TeklaModelLibrary.csproj.GenerateResource.cache
+C:\Users\wogns\Desktop\GitHub\TeklaModelLibrary\TeklaModelLibrary\obj\Debug\TeklaModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\wogns\Desktop\GitHub\TeklaModelLibrary\TeklaModelLibrary\obj\Debug\TeklaModelLibrary.exe
+C:\Users\wogns\Desktop\GitHub\TeklaModelLibrary\TeklaModelLibrary\obj\Debug\TeklaModelLibrary.pdb
